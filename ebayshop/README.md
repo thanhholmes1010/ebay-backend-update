@@ -1,0 +1,2 @@
+# ebayshop-core
+ebayshop-demo
